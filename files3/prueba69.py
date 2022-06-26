@@ -1,0 +1,1 @@
+print("mm".join(["hola","como","estas"]))
